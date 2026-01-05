@@ -1,4 +1,4 @@
-# HandwrittenDigitRecognitio
+# HandwrittenDigitRecognition
 Handwritten Digit Recognition is a classic problem in the field of computer vision and machine learning that focuses on automatically identifying digits (0–9) written by hand. This project implements a deep learning–based system capable of accurately classifying handwritten digit images using a Convolutional Neural Network (CNN). The model is trained on the widely used MNIST dataset, which contains thousands of grayscale images of handwritten digits collected from different writers, making it an excellent benchmark for pattern recognition tasks.
 
 The primary goal of this project is to demonstrate how neural networks can learn visual patterns such as curves, edges, and strokes directly from pixel data without requiring manual feature engineering. Through multiple convolutional and pooling layers, the model extracts meaningful features and passes them through fully connected layers to perform the final classification. The project also includes steps for preprocessing the dataset, such as normalization and reshaping, which help improve training efficiency and overall model performance.
